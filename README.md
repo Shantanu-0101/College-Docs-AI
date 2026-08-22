@@ -6,4 +6,4 @@
   semantic retrieval.
   
 - Integrated Groq LLM (Llama 3.3) with custom prompt engineering to deliver accurate, context-grounded responses.
-  Built responsive frontend using Streamlit, enabling seamless document upload and conversational interaction
+  Built responsive frontend using Streamlit, enabling seamless document upload and conversational interaction.
